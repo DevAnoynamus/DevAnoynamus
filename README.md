@@ -7,12 +7,12 @@
 </h1>
 
 <h2 align="center" style="font-family:'Fira Sans', sans-serif;">
-  <strong>Ethical Hacker • Bot Developer • Python Enthusiast • Web Explorer</strong>
+  <strong>Ethical Hacker • Bot Developer • Python Enthusiast • Web Devloper</strong>
 </h2>
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30" /> Animated Bio
+## <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30" /> About Me
 
 → <span style="color:#FF4500;"><strong>I’m an explorer of tech depths:</strong></span> cybersecurity, automation, AI  
 → <span style="color:#FFD700;"><strong>My playground:</strong></span> building bots, cracking logic, reverse-engineering tools  
@@ -27,10 +27,6 @@
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,tailwind,php,mysql,firebase,arduino,linux,postman,figma,git" alt="SkillIcons" />
   <img src="https://camo.githubusercontent.com/b23acbfa0ac36e58bd1cfead68860adbffb84e8f111fcbd89393a0574a1dc96f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3371324b356a696e416c43686f434c532f67697068792e676966" alt="Your Custom GIF" width="50" />
 </p>
-
-→ Icons animate on hover  
-→ Your custom GIF makes it personal
-
 ---
 
 ## <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="30" /> GitHub Stats
@@ -71,5 +67,5 @@
 ---
 
 <h3 align="center" style="font-family:'Fira Code', monospace;">
-  <strong>Think Deep → Code Hard → Hack Smart → Stay Ethical</strong>
+  <strong>Breaking Limits, Building Logic — Code with Ethics, Hack with Purpose.</strong>
 </h3>
