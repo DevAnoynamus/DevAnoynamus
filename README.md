@@ -2,41 +2,34 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Coding Cat GIF" />
 </p>
 
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif;"><strong>Hi, I'm <span style="color:#00BFFF;">Utkarsh Kushwaha</span></strong></h1>
+<h1 align="center" style="font-family:'Faster One', cursive;">
+  <strong><span style="color:#00BFFF;">Hi, I'm Utkarsh Kushwaha</span></strong>
+</h1>
 
-<h2 align="center"><strong>Ethical Hacker • Bot Developer • Python Enthusiast • Web Explorer</strong></h2>
-
----
-
-## <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30" /> About Me
-
-→ Tech explorer passionate about cybersecurity, automation, and real-world coding  
-→ I build bots, automate logic, and dig deep into system internals  
-→ I love working on projects that combine curiosity, logic, and clean design  
-→ Learning every day through failures, testing, and reverse engineering  
+<h2 align="center" style="font-family:'Fira Sans', sans-serif;">
+  <strong>Ethical Hacker • Bot Developer • Python Enthusiast • Web Explorer</strong>
+</h2>
 
 ---
 
-## <img src="https://media.giphy.com/media/3o6gE5aY6S8xTzFf6Q/giphy.gif" width="30" /> Skills & Tools
+## <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30" /> Animated Bio
 
-### <span style="color:#FFD700"><strong>Key Focus Areas</strong></span>
-→ Python Development  
-→ Telegram Bot Architect  
-→ Ethical Hacking & Social Engineering  
-→ Configs, Tunnels & Payload Setup  
-→ Frontend & Backend Web Dev  
-→ Terminal Automation + UI Design  
-→ Code Cracking (Ethical Intent)  
+→ <span style="color:#FF4500;"><strong>I’m an explorer of tech depths:</strong></span> cybersecurity, automation, AI  
+→ <span style="color:#FFD700;"><strong>My playground:</strong></span> building bots, cracking logic, reverse-engineering tools  
+→ <span style="color:#32CD32;"><strong>Fuel:</strong></span> data, design, clean scripting, and curious minds  
+→ <span style="color:#1E90FF;"><strong>Mission:</strong></span> push boundaries—ethically and intelligently
 
 ---
 
 ## <img src="https://media.giphy.com/media/5xtDarEbyl3MyLxd2s4/giphy.gif" width="30" /> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,tailwind,php,mysql,firebase,arduino,linux,postman,figma,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,tailwind,php,mysql,firebase,arduino,linux,postman,figma,git" alt="SkillIcons" />
+  <img src="https://camo.githubusercontent.com/b23acbfa0ac36e58bd1cfead68860adbffb84e8f111fcbd89393a0574a1dc96f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3371324b356a696e416c43686f434c532f67697068792e676966" alt="Your Custom GIF" width="50" />
 </p>
 
-> Built with performance, speed, and stealth in mind.  
+→ Icons animate on hover  
+→ Your custom GIF makes it personal
 
 ---
 
@@ -55,17 +48,12 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7btQpXW4uU6vBqLK/giphy.gif" width="30" /> Disclaimer
+## <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="30" /> Disclaimer
 
-<p align="left">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="250" align="right" />
-</p>
-
-<span style="color:#FF6347"><strong>⚠️ For Educational Purposes Only</strong></span>  
-→ This profile is designed for <span style="color:#00FFFF"><strong>learning, ethical hacking awareness</strong></span>, and development education  
-→ I <strong>do NOT promote</strong> or support illegal, malicious, or black-hat activity  
-→ Knowledge shared here is used with full respect to <span style="color:#32CD32"><strong>law, ethics, and responsibility</strong></span>  
-→ Always act with integrity and build to inspire others  
+<span style="color:#FF6347;"><strong>⚠️ Educational & Ethical Use Only</strong></span>  
+→ Profile built for **learning, awareness, and growth** in ethical hacking  
+→ I <strong>do NOT support</strong> illegal activity  
+→ All content and tools are used responsibly, with **legal and moral integrity**
 
 ---
 
@@ -82,4 +70,6 @@
 
 ---
 
-<h3 align="center" style="font-family: 'Fira Code', monospace;"><strong>Think Deep → Code Hard → Hack Smart → Stay Ethical</strong></h3>
+<h3 align="center" style="font-family:'Fira Code', monospace;">
+  <strong>Think Deep → Code Hard → Hack Smart → Stay Ethical</strong>
+</h3>
