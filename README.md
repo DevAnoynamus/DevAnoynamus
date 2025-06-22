@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="200" alt="Coding Cat GIF" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" height="250" alt="Coding Cat GIF" />
 </p>
 
 <h1 align="center" style="font-family:'Faster One', cursive;">
