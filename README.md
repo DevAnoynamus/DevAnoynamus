@@ -26,6 +26,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,tailwind,php,mysql,firebase,arduino,linux,postman,figma,git" alt="SkillIcons" />
 </p>
+
 ---
 
 ## <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="30" /> GitHub Stats
