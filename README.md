@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Coding Cat GIF" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="200" alt="Coding Cat GIF" />
 </p>
 
 <h1 align="center" style="font-family:'Faster One', cursive;">
@@ -25,7 +25,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,tailwind,php,mysql,firebase,arduino,linux,postman,figma,git" alt="SkillIcons" />
-  <img src="https://camo.githubusercontent.com/b23acbfa0ac36e58bd1cfead68860adbffb84e8f111fcbd89393a0574a1dc96f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3371324b356a696e416c43686f434c532f67697068792e676966" alt="Your Custom GIF" width="50" />
 </p>
 ---
 
