@@ -24,7 +24,7 @@
 ## <img src="https://media.giphy.com/media/5xtDarEbyl3MyLxd2s4/giphy.gif" width="30" /> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,tailwind,php,mysql,firebase,arduino,linux,postman,figma,git,react,nextjs,threejs,typescript,bash,vite,mongodb,github,aws,flask,figma,gcp,bots,gitlab,docker,mysql,netlify,npm,nginx" alt="SkillIcons" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,tailwind,php,mysql,firebase,arduino,linux,postman,figma,git,react,nextjs,threejs,typescript,bash,vite,mongodb,github,aws,flask,figma,gcp,bots,gitlab,docker,mysql" alt="SkillIcons" />
 </p>
 
 ---
