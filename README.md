@@ -44,12 +44,13 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="30" /> Disclaimer
+## <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="30" /> Views
 
-<span style="color:#FF6347;"><strong>⚠️ Educational & Ethical Use Only</strong></span>  
-→ Profile built for **learning, awareness, and growth** in ethical hacking  
-→ I <strong>do NOT support</strong> illegal activity  
-→ All content and tools are used responsibly, with **legal and moral integrity**
+<div align="center">
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
+    </p>
+</div>
 
 ---
 
@@ -59,7 +60,7 @@
   <a href="https://t.me/anoynamus" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://instagram.com/dealer.blood" target="_blank">
+  <a href="https://instagram.com/dev._utkarsh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
